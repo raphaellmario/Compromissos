@@ -1,0 +1,15 @@
+# Dados locais (não subir pro repositório)
+data/
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
+*.log
